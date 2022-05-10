@@ -9,3 +9,4 @@ git pull /to update your local branch / обновить свою локальн
 1) git add .
 2) git commit -m "created django project with2 apps"
 3) git push
+444
