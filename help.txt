@@ -1,0 +1,11 @@
+hello
+создание ветки гита
+git branch имя ветки
+git branch / просмотр веток и в какой ветке вы находитесь
+git checkout имя ветки / переход на нужную ветку
+git checkout -b имя ветки / создание ветки и переход на нее
+git pull /to update your local branch / обновить свою локальную ветку
+
+1) git add .
+2) git commit -m "created django project with2 apps"
+3) git push
